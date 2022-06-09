@@ -1,0 +1,4 @@
+
+
+A última linha da ilustração 2 é o oposto da última linha da ilustração 01, assim como a última coluna da ilustração 02 é o oposto da última coluna da ilustração 01.
+Portanto, ficou em evidência a troca do P para M na linha 5 e coluna 5 da ilustração 03.
